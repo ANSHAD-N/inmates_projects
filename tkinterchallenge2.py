@@ -14,20 +14,20 @@ entry4 = Entry(root)
 entry5 = Entry(root)
 entry6 = Entry(root)
 
-button1 = Button(root,text="Login",bg="green")
-button2 = Button(root,text="Cancel", bg="red")
+button1 = Button(root, text="Login", bg="green")
+button2 = Button(root, text="Cancel", bg="red")
 
-label1.grid(row = 0,column = 0)
-entry1.grid(row = 0, column = 1)
+label1.grid(row=0, column=0)
+entry1.grid(row=0, column=1)
 
-label2.grid(row = 1,column = 0)
-entry2.grid(row = 1, column = 1)
+label2.grid(row=1, column=0)
+entry2.grid(row=1, column=1)
 
-label3.grid(row = 2,column = 0)
-entry3.grid(row = 2, column = 1)
+label3.grid(row = 2,column=0)
+entry3.grid(row = 2, column=1)
 
-label4.grid(row = 3,column = 0)
-entry4.grid(row = 3, column = 1)
+label4.grid(row = 3,column=0)
+entry4.grid(row = 3, column=1)
 
 label5.grid(row = 4,column = 0)
 entry5.grid(row = 4, column = 1)
